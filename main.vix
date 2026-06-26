@@ -3,6 +3,7 @@ import "vnet"
 
 pub fn say(): i32{
     print(add(1,2))
+    show_status()
     return 0
 }
 
