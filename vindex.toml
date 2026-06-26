@@ -6,4 +6,5 @@ authors = []
 edition = "2024"
 deps = [
     "vnet",
+    "kossjs",
 ]
