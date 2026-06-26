@@ -1,5 +1,6 @@
 import "src/lib.vix"
 
-pub fn say()->i32{
+pub fn say(): i32{
     print(add(1,2))
+    return 0
 }
